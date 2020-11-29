@@ -65,7 +65,17 @@ const languageSources = [
   'https://github.com/wenyan-lang/highlight/blob/master/wenyan.tmLanguage.json',
   'https://github.com/elixir-editors/elixir-tmbundle/blob/master/Syntaxes/Elixir.tmLanguage',
   'https://github.com/pgourlain/vscode_erlang/blob/master/syntaxes/erlang.tmLanguage',
-  'https://github.com/textmate/applescript.tmbundle/blob/master/Syntaxes/AppleScript.tmLanguage'
+  'https://github.com/textmate/applescript.tmbundle/blob/master/Syntaxes/AppleScript.tmLanguage',
+  'https://github.com/colinta/ApacheConf.tmLanguage/blob/master/ApacheConf.tmLanguage',
+  'https://github.com/mshr-h/vscode-verilog-hdl-support/blob/master/syntaxes/verilog.tmLanguage',
+  'https://github.com/mshr-h/vscode-verilog-hdl-support/blob/master/syntaxes/systemverilog.tmLanguage',
+  'https://github.com/jonasjj/awesome-vhdl/blob/master/syntaxes/vhdl.tmLanguage',
+  'https://github.com/juanfranblanco/vscode-solidity/blob/master/syntaxes/solidity.json',
+  'https://github.com/zhuanhao-wu/vscode-riscv-support/blob/master/syntaxes/riscv.tmLanguage',
+  'https://github.com/alexkrechik/VSCucumberAutoComplete/blob/master/gclient/syntaxes/feature.tmLanguage',
+  'https://github.com/hangxingliu/vscode-nginx-conf-hint/blob/master/syntaxes/nginx.tmLanguage',
+  'https://github.com/pragmagic/vscode-nim/blob/master/syntaxes/nim.json',
+  'https://github.com/nalabdou/Symfony-code-snippets/blob/master/syntaxes/twig.tmLanguage'
 ]
 
 async function go() {
